@@ -1,0 +1,13 @@
+Data Description
+------------------
+  1.  Original Data    -    5421446 records 
+  2.  Cleaned Data     -    3669126 records
+
+  Sizes
+  -----
+  
+  1.   Original csv File size     -   0.98 GB
+  2.   Cleaned Parquet File sie   -   0.00159 GB (15.9 MB)
+  
+   
+           

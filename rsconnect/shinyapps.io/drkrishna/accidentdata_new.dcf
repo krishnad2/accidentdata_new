@@ -1,0 +1,12 @@
+name: accidentdata_new
+title: accidentdata_new
+username:
+account: drkrishna
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 233831
+bundleId: 1070532
+url: https://drkrishna.shinyapps.io/accidentdata_new/
+when: 1510430479.25493
+asMultiple: FALSE
+asStatic: FALSE
